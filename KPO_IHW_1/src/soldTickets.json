@@ -1,0 +1,479 @@
+[
+  {
+    "id": "Inception_2024.01.18_12:00_MSK_seat_№7",
+    "showtime": {
+      "movie": {
+        "title": "Inception",
+        "durationMinutes": 150,
+        "countryProduced": "USA",
+        "directorName": "Christopher Nolan",
+        "genre": "Sci-Fi"
+      },
+      "startTime": "2024-01-18T12:00:00",
+      "availableSeats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        12,
+        13,
+        14,
+        15,
+        16,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        11
+      ],
+      "purchasedSeats": [
+        7,
+        17
+      ],
+      "checkedSeats": [
+        17
+      ]
+    },
+    "seatNumber": 7,
+    "isAvailable": false,
+    "checkedByController": false
+  },
+  {
+    "id": "Inception_2024.01.18_12:00_MSK_seat_№17",
+    "showtime": {
+      "movie": {
+        "title": "Inception",
+        "durationMinutes": 150,
+        "countryProduced": "USA",
+        "directorName": "Christopher Nolan",
+        "genre": "Sci-Fi"
+      },
+      "startTime": "2024-01-18T12:00:00",
+      "availableSeats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        12,
+        13,
+        14,
+        15,
+        16,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        11
+      ],
+      "purchasedSeats": [
+        7,
+        17
+      ],
+      "checkedSeats": [
+        17
+      ]
+    },
+    "seatNumber": 17,
+    "isAvailable": false,
+    "checkedByController": true
+  },
+  {
+    "id": "The Dark Knight_2024.01.19_03:30_MSK_seat_№20",
+    "showtime": {
+      "movie": {
+        "title": "The Dark Knight",
+        "durationMinutes": 152,
+        "countryProduced": "USA",
+        "directorName": "Christopher Nolan",
+        "genre": "Action"
+      },
+      "startTime": "2024-01-19T03:30:00",
+      "availableSeats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "purchasedSeats": [
+        20,
+        29,
+        30,
+        27,
+        11,
+        28,
+        10
+      ],
+      "checkedSeats": [
+        10
+      ]
+    },
+    "seatNumber": 20,
+    "isAvailable": false,
+    "checkedByController": false
+  },
+  {
+    "id": "The Dark Knight_2024.01.19_03:30_MSK_seat_№29",
+    "showtime": {
+      "movie": {
+        "title": "The Dark Knight",
+        "durationMinutes": 152,
+        "countryProduced": "USA",
+        "directorName": "Christopher Nolan",
+        "genre": "Action"
+      },
+      "startTime": "2024-01-19T03:30:00",
+      "availableSeats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "purchasedSeats": [
+        20,
+        29,
+        30,
+        27,
+        11,
+        28,
+        10
+      ],
+      "checkedSeats": [
+        10
+      ]
+    },
+    "seatNumber": 29,
+    "isAvailable": false,
+    "checkedByController": false
+  },
+  {
+    "id": "The Dark Knight_2024.01.19_03:30_MSK_seat_№30",
+    "showtime": {
+      "movie": {
+        "title": "The Dark Knight",
+        "durationMinutes": 152,
+        "countryProduced": "USA",
+        "directorName": "Christopher Nolan",
+        "genre": "Action"
+      },
+      "startTime": "2024-01-19T03:30:00",
+      "availableSeats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "purchasedSeats": [
+        20,
+        29,
+        30,
+        27,
+        11,
+        28,
+        10
+      ],
+      "checkedSeats": [
+        10
+      ]
+    },
+    "seatNumber": 30,
+    "isAvailable": false,
+    "checkedByController": false
+  },
+  {
+    "id": "The Dark Knight_2024.01.19_03:30_MSK_seat_№27",
+    "showtime": {
+      "movie": {
+        "title": "The Dark Knight",
+        "durationMinutes": 152,
+        "countryProduced": "USA",
+        "directorName": "Christopher Nolan",
+        "genre": "Action"
+      },
+      "startTime": "2024-01-19T03:30:00",
+      "availableSeats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "purchasedSeats": [
+        20,
+        29,
+        30,
+        27,
+        11,
+        28,
+        10
+      ],
+      "checkedSeats": [
+        10
+      ]
+    },
+    "seatNumber": 27,
+    "isAvailable": false,
+    "checkedByController": false
+  },
+  {
+    "id": "The Dark Knight_2024.01.19_03:30_MSK_seat_№11",
+    "showtime": {
+      "movie": {
+        "title": "The Dark Knight",
+        "durationMinutes": 152,
+        "countryProduced": "USA",
+        "directorName": "Christopher Nolan",
+        "genre": "Action"
+      },
+      "startTime": "2024-01-19T03:30:00",
+      "availableSeats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "purchasedSeats": [
+        20,
+        29,
+        30,
+        27,
+        11,
+        28,
+        10
+      ],
+      "checkedSeats": [
+        10
+      ]
+    },
+    "seatNumber": 11,
+    "isAvailable": false,
+    "checkedByController": false
+  },
+  {
+    "id": "The Dark Knight_2024.01.19_03:30_MSK_seat_№28",
+    "showtime": {
+      "movie": {
+        "title": "The Dark Knight",
+        "durationMinutes": 152,
+        "countryProduced": "USA",
+        "directorName": "Christopher Nolan",
+        "genre": "Action"
+      },
+      "startTime": "2024-01-19T03:30:00",
+      "availableSeats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "purchasedSeats": [
+        20,
+        29,
+        30,
+        27,
+        11,
+        28,
+        10
+      ],
+      "checkedSeats": [
+        10
+      ]
+    },
+    "seatNumber": 28,
+    "isAvailable": false,
+    "checkedByController": false
+  },
+  {
+    "id": "The Dark Knight_2024.01.19_03:30_MSK_seat_№10",
+    "showtime": {
+      "movie": {
+        "title": "The Dark Knight",
+        "durationMinutes": 152,
+        "countryProduced": "USA",
+        "directorName": "Christopher Nolan",
+        "genre": "Action"
+      },
+      "startTime": "2024-01-19T03:30:00",
+      "availableSeats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "purchasedSeats": [
+        20,
+        29,
+        30,
+        27,
+        11,
+        28,
+        10
+      ],
+      "checkedSeats": [
+        10
+      ]
+    },
+    "seatNumber": 10,
+    "isAvailable": false,
+    "checkedByController": true
+  }
+]

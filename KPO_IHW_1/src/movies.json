@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Inception",
+    "durationMinutes": 150,
+    "countryProduced": "USA",
+    "directorName": "Christopher Nolan",
+    "genre": "Sci-Fi"
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "durationMinutes": 142,
+    "countryProduced": "USA",
+    "directorName": "Frank Darabont",
+    "genre": "Drama"
+  },
+  {
+    "title": "The Dark Knight",
+    "durationMinutes": 152,
+    "countryProduced": "USA",
+    "directorName": "Christopher Nolan",
+    "genre": "Action"
+  }
+]
